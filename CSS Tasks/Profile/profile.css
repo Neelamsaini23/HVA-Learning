@@ -1,0 +1,18 @@
+h1{
+    font-size:20px;
+    color:#F0A8D0;
+ }
+ p{
+   font-size:20px;
+   line-height:1;
+ }
+ .about-me{
+   padding:16px;
+   background-color:#FFEBD4;
+ }
+ #profile-pic{
+      width:100px;
+      border-radius:50%;
+ }
+      
+      
