@@ -35,7 +35,7 @@ button[type="button"]:hover {
     background-color: #f0f0f0;
 }
 
-.product-image {
+.product-card-image {
     width: 100%;
     height: auto;
     border-radius: 8px;
