@@ -1,0 +1,27 @@
+function greet(name){
+
+    return "hello," + name+"!";
+    }
+    console.log(greet("Neelam"))
+
+
+function greetDefault(name="guest"){
+    return "hello,"+ name +"!";
+ }
+ console.log(greetDefault())
+
+
+const greetFunction = function(name) {
+    return "Hello, " + name + "!";
+};
+
+console.log(greetFunction("Neelam"));
+
+
+
+const greetArrow = (name) => {
+    return "Hello, " + name + "!";
+};
+
+console.log(greetArrow("Neelam"));
+
